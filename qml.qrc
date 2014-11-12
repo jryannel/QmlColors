@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorItem.qml</file>
+        <file>Box.qml</file>
+        <file>colors.js</file>
+    </qresource>
+</RCC>
