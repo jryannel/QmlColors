@@ -69,6 +69,31 @@ var data = [
             { color1: '#00A600' },
             { color1: '#094AB2' },
             { color1: '#0A5BC4' },
+            // meego
+            { title: 'Meego' },
+            // green
+            { color1: '#61B700' },
+            { color1: '#3C880B' },
+            { color1: '#347707' },
+            { color1: '#2F6600' },
+            // blue
+            { color1: '#08A7CC' },
+            { color1: '#007CC8' },
+            { color1: '#0067BB' },
+            { color1: '#1C51AE' },
+            { color1: '#4591FF' },
+            // red
+            { color1: '#6300BB' },
+            { color1: '#860BB9' },
+            { color1: '#CC08B9' },
+            { color1: '#E800A0' },
+            // orange
+            { color1: '#EE5400' },
+            { color1: '#EA6409' },
+            { color1: '#F77118' },
+            { color1: '#FF8500' },
+            { color1: '#EC9406' },
+            { color1: '#F1B011' },
             // grey colors
             { title: 'Grayscale' },
             { color1: '#000' },
